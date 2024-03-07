@@ -1,6 +1,6 @@
 # Hello, everyone! 👋
 
-I am _Fallon McBrien_. I graduated from _Boston University_ with a Bachelor of Science in Mechanical Engineering with a concentration in Aerospace Engineering and a background in programming. I am experienced in Python, C++, MATLAB, Back-End Development, Java, CAD, and FEA.
+I am _Fallon McBrien_. I graduated from _Boston University_ with a Bachelor of Science in Mechanical Engineering with a concentration in Aerospace Engineering and a background in programming. I am experienced in Python, C++, MATLAB, Java, CAD, and FEA.
 
 Currently passionate about honing my skills in development so I can begin my career as a software engineer!!
 
